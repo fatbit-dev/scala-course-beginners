@@ -1,2 +1,20 @@
+# Scala stuff
 *.class
 *.log
+
+# IntelliJ IDEA stuff
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/export
+/RUNNING_PID
+/tmp
+.scannerwork
+.hprof
+.log
+*.iml
+
