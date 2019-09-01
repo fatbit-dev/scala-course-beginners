@@ -18,3 +18,5 @@ target
 .log
 *.iml
 
+// OS stuff
+.DS_Store
