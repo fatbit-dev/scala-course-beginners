@@ -67,7 +67,7 @@ object c07_AnonymousClasses extends App {
     }
 
     println(s"specialPoison.color = ${specialPoison.color}")
-    
+
     val python = new Snake {
         def color: String = "Green and brown"
     }
